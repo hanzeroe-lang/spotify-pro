@@ -1,0 +1,16 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/keystore.properties
+*.jks
+*.keystore
+/build
+*/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.log
+.idea/
+.DS_Store

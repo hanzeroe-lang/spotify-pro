@@ -1,1 +1,0 @@
-[Incubating] Problems report is available at: file:///C:/Projects/Fruit-Juce/build/reports/problems/problems-report.html
